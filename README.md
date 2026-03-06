@@ -26,7 +26,8 @@ This is a single-file React artifact. To run it:
 
 1. Clone the repo
 2. Open `triage.jsx` in any React environment (Vite, Create React App, or paste directly into [claude.ai](https://claude.ai) as an artifact)
-3. Add your Anthropic API key via the **Set API Key** button in the top bar
+   **Using Claude is recommended since no API key would be required**
+4. Add your Anthropic API key via the **Set API Key** button in the top bar
 
 ```bash
 # If running with Vite
